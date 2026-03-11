@@ -81,7 +81,7 @@ reddit-json-data-pipeline-dashboard/
 
 
 
----
+
 
 ## Installation
 
@@ -178,9 +178,9 @@ The dashboard also displays the structured dataset generated from the Reddit JSO
 
 Key fields include:
 
-- **title** – Reddit post title  
-- **subreddit** – Source subreddit  
-- **score** – Post popularity score  
+- **title**: Reddit post title  
+- **subreddit**: Source subreddit  
+- **score**: Post popularity score  
 
 This table represents the transformation of raw JSON API responses into structured data suitable for analytics and visualization.
 
