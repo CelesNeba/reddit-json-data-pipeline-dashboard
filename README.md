@@ -169,6 +169,23 @@ Future enhancements could include:
 
 
 
+
+
+
+
+
+![Reddit JSON Dashboard](https://raw.githubusercontent.com/CelesNeba/reddit-json-data-pipeline-dashboard/main/json%20dashboard%20screenshot.PNG)
+
+
+
+
+
+
+
+
+
+
+
 # 👤 Author
 
 **Celestine Neba**  
