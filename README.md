@@ -174,8 +174,21 @@ Future enhancements could include:
 
 
 
-![Reddit JSON Dashboard](https://raw.githubusercontent.com/CelesNeba/reddit-json-data-pipeline-dashboard/main/json%20dashboard%20screenshot.PNG)
+##  Dashboard preview
 
+Below is a snapshot of the real-time Streamlit dashboard used to visualize the Reddit JSON data pipeline.
+
+![Reddit JSON Dashboard](https://github.com/CelesNeba/reddit-json-data-pipeline-dashboard/blob/main/json%20dashboard%20screenshot.PNG)
+
+The dashboard provides live insights including:
+
+- Top subreddits based on collected posts
+- Ranking of the highest scoring Reddit posts
+- Real-time dataset updates
+- Total posts collected metric
+- Automatic refresh every 30 seconds
+
+This visualization demonstrates how raw JSON API data can be transformed into meaningful analytics using Python and Streamlit.
 
 
 
