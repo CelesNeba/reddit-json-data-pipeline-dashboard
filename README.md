@@ -164,3 +164,21 @@ Future enhancements could include:
 - Sentiment analysis on Reddit posts
 
 - Time-series analytics
+
+
+
+
+
+# 👤 Author
+
+**Celestine Neba**  
+ETL | Data Engineering | Data Analytics  
+BSc Computer Science
+
+## About the Author
+
+Celestine Neba is a data professional with a background in Computer Science and a strong interest in data engineering, ETL pipelines, and analytics. I focus on building practical data solutions that transform raw data into meaningful insights.
+
+My work includes developing data pipelines, processing API-based JSON data, and building interactive dashboards to support data-driven decision-making.
+
+This project is part of my growing portfolio, demonstrating skills in data ingestion, transformation, and visualization using modern Python data tools.
