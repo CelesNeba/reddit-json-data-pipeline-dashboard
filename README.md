@@ -166,6 +166,24 @@ Future enhancements could include:
 - Time-series analytics
 
 
+##  Reddit trending posts dashboard
+
+The main analytics dashboard provides a live overview of collected Reddit data, including trending subreddits, post rankings, and dataset updates.
+
+![Reddit Trending Posts Dashboard](https://raw.githubusercontent.com/CelesNeba/reddit-json-data-pipeline-dashboard/main/json%20main%20board%20screenshot.PNG)
+
+### Collected Reddit Data
+
+The dashboard also displays the structured dataset generated from the Reddit JSON API, allowing users to view the processed data in real time.
+
+Key fields include:
+
+- **title** – Reddit post title  
+- **subreddit** – Source subreddit  
+- **score** – Post popularity score  
+
+This table represents the transformation of raw JSON API responses into structured data suitable for analytics and visualization.
+
 
 
 
@@ -189,11 +207,6 @@ The dashboard provides live insights including:
 - Automatic refresh every 30 seconds
 
 This visualization demonstrates how raw JSON API data can be transformed into meaningful analytics using Python and Streamlit.
-
-
-
-
-
 
 
 
